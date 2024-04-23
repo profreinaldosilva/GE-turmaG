@@ -85,6 +85,12 @@ body {
     text-align: center;
 }
 
+
+.rodape-texto{
+    color: yellow;
+    text-align: center;   
+}
+
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
